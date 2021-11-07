@@ -167,6 +167,8 @@ int SeriesFromNTo1(int number)
 }
 
 /*
+Test Data: 
+
 Welcome!
 
 1. Calculate the power
